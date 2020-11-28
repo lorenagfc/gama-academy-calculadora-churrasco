@@ -1,0 +1,79 @@
+body {
+    background-color: #731AB7;
+    color: #F7F0F0;
+}
+
+.container {
+    background-color: #0A0101;
+    background-color: rgba(60,30,100,0.5);
+    height: auto;
+    width: 60%;
+    border-color: #707070;
+}
+
+#cabecalho {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+h5{
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0px;
+    margin-top: 30px;
+    opacity: 1;
+    size: 15px;
+}
+
+.letra {
+    text-align: center;
+    font: normal normal normal 40px/51px Lobster 1.4;
+    letter-spacing: 0px;
+    color: #F7F0F0;
+    text-shadow: 0px 3px 6px #636363;
+    opacity: 1;
+}
+
+.campo {
+    border-color: #F7F0F0;
+    background-color: #731AB7;
+    border-width: 5px;
+    width: 100px;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+}
+
+#botaoCalcular {
+    background-color: #63DC3E;
+    color: #731AB7;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    width: 200px;
+}
+
+.linhas {
+    padding-bottom: 50px;
+}
+
+.checkbox {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
